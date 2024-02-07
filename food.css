@@ -1,0 +1,61 @@
+#navbar{
+    color:black;
+    background-color:rgba(203, 203, 212, 0.2);
+    height: 50px;
+    position: fixed;
+    top:0px;
+    left: 0px;
+        right: 0px;
+}
+a{
+    color: black;
+        margin-right:50px ;
+        font-size: 30px;
+        margin-left:50px;
+        text-decoration: none;
+        font-size: 30px;
+    }
+    body{
+        background-image:url(/food3.jpeg) ;
+        background-size: cover;
+    }
+    #HEADING1{
+        color:white;
+        font-size: 100PX;
+        font-family: cursive;
+        padding-top: 5px;
+        padding-left: 0PX;
+        margin-left: 100px;
+       }
+       #HEADING2{
+        color:wheat;
+        font-family:cursive;
+        font-size: 100px;
+        padding-top: 5px;
+        padding-left: 2%;
+        margin-left: 100px;
+       }
+       #logo{
+        height: 50px;
+        width: 30px;
+        padding-left: 5px;
+        color:black;
+        margin-right: 800px;
+        font-size: 40px;
+        font-family:cursive;
+        
+       }
+       pre{
+        color: azure;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+       }
+       button{
+        color: black;
+        background-color:rgb(157, 157, 219);
+        margin-left: 100px;
+        font-size: 40px;
+        border-radius: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+       }
